@@ -1,0 +1,18 @@
+---
+- hosts: all
+  any_errors_fatal: true
+  become: true
+  name: Reboot system
+
+  vars:
+    reboot_enabled: true
+    reboot_msg: "System is going down to apply updates."
+    reboot_timeout: 600
+    reboot_forced: false
+
+  tasks:
+    - name: Reboot system
+      ansible.builtin.reboot:
+        msg: "{{ reboot_msg }}"
+        reboot_timeout: "{{ reboot_timeout }}"
+      when: reboot_enabled or reboot_forced

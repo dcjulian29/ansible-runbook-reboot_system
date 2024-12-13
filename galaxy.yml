@@ -1,0 +1,24 @@
+---
+authors: ["Julian Easterling <julian@julianscorner.com>"]
+build_ignore:
+  - .devcontainer
+  - README.md
+  - build.cmd
+  - .gitignore
+  - .vscode
+  - .github
+  - .ansible-lint
+  - .gitattributes
+  - .yamllint
+  - .editorconfig
+description: Runbook that will reboot the system.
+homepage: https://github.com/dcjulian29/ansible-runbook-reboot_system
+issues: https://github.com/dcjulian29/ansible-runbook-reboot_system/issues
+license: ["Apache-2.0"]
+name: updateos
+namespace: dcjulian29
+readme: https://github.com/dcjulian29/ansible-runbook-reboot_system/blob/main/README.md
+repository: https://github.com/dcjulian29/ansible-runbook-reboot_system
+tags:
+  - rebootsystem
+version: 0.9.1
