@@ -21,4 +21,4 @@ readme: https://github.com/dcjulian29/ansible-runbook-reboot_system/blob/main/RE
 repository: https://github.com/dcjulian29/ansible-runbook-reboot_system
 tags:
   - rebootsystem
-version: 0.9.2
+version: 0.9.3

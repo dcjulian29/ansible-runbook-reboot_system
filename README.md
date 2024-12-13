@@ -1,6 +1,6 @@
 # Ansible Runbook: reboot_system
 
-[![Build](https://github.com/dcjulian29/ansible-runbook-reboot_system/actions/workflows/build.yml/badge.svg)](https://github.com/dcjulian29/ansible-runbook-reboot_system/actions/workflows/build.yml) [![Release](https://github.com/dcjulian29/ansible-runbook-reboot_system/actions/workflows/release.yml/badge.svg)](https://github.com/dcjulian29/ansible-runbook-reboot_system/actions/workflows/release.yml) [![GitHub Release](https://img.shields.io/github/v/release/dcjulian29/ansible-runbook-reboot_system)](https://github.com/dcjulian29/ansible-runbook-reboot_system/releases) [![GitHub Issues](https://img.shields.io/github/issues-raw/dcjulian29/ansible-runbook-reboot_system.svg)](https://github.com/dcjulian29/ansible-runbook-reboot_system/issues)
+[![Build](https://github.com/dcjulian29/ansible-runbook-reboot_system/actions/workflows/build.yml/badge.svg)](https://github.com/dcjulian29/ansible-runbook-reboot_system/actions/workflows/build.yml) [![GitHub Release](https://img.shields.io/github/v/release/dcjulian29/ansible-runbook-reboot_system)](https://github.com/dcjulian29/ansible-runbook-reboot_system/releases) [![GitHub Issues](https://img.shields.io/github/issues-raw/dcjulian29/ansible-runbook-reboot_system.svg)](https://github.com/dcjulian29/ansible-runbook-reboot_system/issues)
 
 This an Ansible runbook that will update the operating system and reboot if needed.
 
